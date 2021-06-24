@@ -13,11 +13,11 @@ just a simple job at the limeys juicebar that I made. Figured that I wanna share
 
 ## Notes
 * In the client.lua, you can change the location of the working spots and the blip. You can add more working spots if you want to, You can also configure the menu whether you want to add more items that can be created or remove some of it.
-* Do not forget to change the 'x' in the job.name (Line 50, Line 74, Line 100 and Line 126.) into whatever job you plan to set it to.
+* Do not forget to change the 'x' in the job.name (Line 50, Line 74, Line 101 and Line 127.) into whatever job you plan to set it to.
 * Do not forget to add the items that will be used and will be made in your `items` table in your database. I had an sql file ready if you want to use it to add the items
 to your database. OR you can just manually do it. The items are in the `limeysitems.sql` file.
-* `Line 52`, That is the line for the `MAP BLIP` that you can see in the menu. Feel Free to change that.
-* `Line 75, 101 and 127`. This is the coords for the `cooking spots`.
+* `Line 50`, That is the line for the `MAP BLIP` that you can see in the menu. Feel Free to change that.
+* `Line 75, 102 and 128`. This is the coords for the `cooking spots`.
 
 ## Download & Installation
 ### Using Git
